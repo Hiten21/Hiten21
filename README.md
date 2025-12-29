@@ -1,5 +1,5 @@
 # 💫 About Me:
-am currently wokrking on crm application using<br>react js , <br>also i have experience in react js , react Native , vite js ,<br>next js , material ui , tailwind css , bootstrap , and other <br>things which i know is , rest api , contect api , redux , postman <br>, html , css , javascript
+Hello, hiten this side . I have experience in developing web applications, including CRM, HRM, food delivery, medicine distribution, and other types of applications. I also have experience in building cross-platform mobile applications using React Native.<br>react js , <br>also i have experience in react js , react Native , vite js ,<br>next js , material ui , tailwind css , bootstrap , and other <br>things which i know is , rest api , contect api , redux , postman <br>, html , css , javascript
 
 
 ## 🌐 Socials:
